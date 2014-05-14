@@ -1,11 +1,12 @@
 **BadgeOSCControl**
 =======
 
-BadgeOSCControl!  {#welcome}
+BadgeOSCControl! 
 =====================
 
 
 Appli de commande des badges du THSF en  **OSC**.
+Tetalab 2014 WTF licence
 
 ----------
 
@@ -17,4 +18,5 @@ need
 
 > **NOTE:**
 > 
-> - Si vous compiler pour android penser a mettre les permissions 
+> - Si vous compilez pour android pensez à mettre les permissions
+**"INTERNET"**
